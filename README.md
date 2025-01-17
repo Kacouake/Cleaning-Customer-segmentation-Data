@@ -1,3 +1,6 @@
+## About Me
+I'm Kacou Ake, an aspiring data analyst focused on SQL and Excel. Visit my [GitHub Profile](https://github.com/YourUsername) for more.
+
 ## Data Cleaning for Customer Segmentation Dataset
 
 ### Goal
